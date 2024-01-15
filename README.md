@@ -1,4 +1,4 @@
-# Nitigon's Code Realm 👨‍💻✨
+# Nitigon's Code Kingdom 👾✨
 
 Hey folks! 👋 I'm Nitigon, your friendly neighborhood full-stack developer weaving magic with code. ✨✨
 
@@ -12,6 +12,8 @@ Hey folks! 👋 I'm Nitigon, your friendly neighborhood full-stack developer wea
 ## 🌐 Web Adventures
 
 Discover my coding quests at [Nitigon's Portfolio](https://nitigon.phadungsat.com/projects). It's a treasure trove of my coding escapades.
+
+Feel free to reach out at [nitigon@phadungsat.com](mailto:nitigon@phadungsat.com).
 
 ## 🚀 Past Interesting Exploits
 
